@@ -13,5 +13,10 @@ namespace XamarinFlipView
 		{
 			InitializeComponent();
 		}
-	}
+
+        private void btnFlip_Clicked(object sender, EventArgs e)
+        {
+            flipView.FlipCard();
+        }
+    }
 }

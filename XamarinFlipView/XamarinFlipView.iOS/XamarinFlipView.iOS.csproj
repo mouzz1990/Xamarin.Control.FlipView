@@ -156,4 +156,7 @@
       <Name>XamarinFlipView</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\mouse.png" />
+  </ItemGroup>
 </Project>
